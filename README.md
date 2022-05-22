@@ -14,4 +14,15 @@ For the hall sensors, PA8, PA9, PA10 are used.
 
 To control the elements BTS 7860B for active mode, we used PB12, PB13, PB14.
 
+This images shows the used microcontroller pins:
 ![image](https://user-images.githubusercontent.com/95107709/169672517-1aa80608-4244-402c-88bc-267f4cacccb8.png)
+
+This photo shows the printed circuit for the controller:
+![Capture](https://user-images.githubusercontent.com/95107709/169694170-3456d7fe-5029-4934-9448-173ea539337d.PNG)
+
+
+This photo shows motor currents using the controller:
+![20190730_223754](https://user-images.githubusercontent.com/95107709/169693395-5a980641-7b3d-426f-a092-c84afcddad1f.jpg)
+
+The hoverboard:
+![20190825_052734](https://user-images.githubusercontent.com/95107709/169694254-9d1e384e-2b48-4345-985c-15144d2dc49a.jpg)
