@@ -1,6 +1,10 @@
 # BLDC-current-controller
 Current controller for a brushless DC motor using stm32f103c8t6
-This project is meant to control BLDC motor of 350 W for a one wheel hoverboard using stm32f103c8t6 microcontroller. (see the hoverboard on youtube: https://www.youtube.com/watch?v=aa2UyJ1Kv6I)
+This project is meant to control BLDC motor of 350 W for a one wheel hoverboard using stm32f103c8t6 microcontroller. (see the hoverboard on youtube: https://www.youtube.com/watch?v=aa2UyJ1Kv6I
+
+Implemenation with square wave currents: https://www.youtube.com/watch?v=D2rlX_WaPG8
+
+)
 
 The project is done using the following components:
 BTS 7960B High Current PN Half Bridge.
